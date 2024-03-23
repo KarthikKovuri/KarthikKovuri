@@ -48,7 +48,9 @@ I'm actively engaged in data analysis projects to unlock my potential in extract
 
 ---
 
-<h3> Fun Fact ⚡ </h3> Did you know? I've embarked on a wild quest to uncover the ultimate 'why'! 🕵️‍♂️💡
+<h3> Fun Fact ⚡ </h3> 
+
+- Did you know? I've embarked on a wild quest to uncover the ultimate 'why'! 🕵️‍♂️💡
 
 ---
 <h3 align="center"> Thank you for visiting my profile! Have a great rest of your day.👋 </h3>
