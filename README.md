@@ -2,7 +2,7 @@
 
 <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/8e91b86f-b1d4-4706-a939-cd43aa91d88c" width="1000" height="400"> </a>
 
-<h1 align="center"> Hey, I'm Karthik 👋 </h1>
+<h1 align="center"> Hey, I'm Karthik 🙋‍♂️  </h1>
 <h3 align="center"> Transforming Data into Insights: Unveiling Patterns and Driving Decisions </h3>
 
 <h3 align="left"> About Me 💬 </h3>I'm a Data Analyst with extensive experience in data analysis, visualization, and quality assurance. Proficient in SQL, R Programming, Tableau, and Advanced Excel, with a track record of improving operational workflows and driving automation initiatives. Demonstrated ability to lead projects and deliver actionable insights to optimize business processes.
@@ -48,5 +48,7 @@ I'm actively engaged in data analysis projects to unlock my potential in extract
 
 ---
 
+<h3> Fun Fact ⚡ </h3> I think I become insane trying to find 'WHY'🤪
 
-- ⚡ Fun fact **I think I become insane trying to find 'WHY'**
+---
+<h3 align="center"> Thank you for visiting my profile! Have a great rest of your day.👋 </h3>
