@@ -15,4 +15,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/fc9cd0ea-e7c2-4ec3-965f-9f8ac94c12e6" width="55" height="55"> </a> 
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/df9034c2-e21e-4d60-beb7-487b45231838" width="55" height="55"/> </a> &nbsp;
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/ef44eb11-b41b-4c28-9aa0-fdcbf1437ae8" width="55" height="55"/> </a> &nbsp;
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/909b1e24-ae95-45ae-9d5f-5ce4ec7bc226" width="55" height="55"/> </a> &nbsp;
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/dfb112f8-5c9a-45d3-bafd-573253888d6a" width="55" height="55"/> </a> &nbsp;
+  <a> <img src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/0fc661c3-f5b6-4a00-a88b-d71ab8f79557" width="55" height="55"/> </a> &nbsp;
+  <a> <img alt="looker studio" src="https://github.com/KarthikKovuri/KarthikKovuri/assets/162425413/6fa39019-9b18-454b-89f9-ef252d3463c1" width="75" height="55"> </a>
+</p>
+
+
